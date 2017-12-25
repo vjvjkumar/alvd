@@ -1,0 +1,11 @@
+testChallengeUrl: https://gov.uk/get-vehicle-information-from-dvla
+geckoDriverPath: /Users/vijaykumar/Documents/geckodriver
+
+#runMode: PhantomJS
+#runMode: Firefox
+runMode: Chrome
+#runMode: Opera
+
+firefoxBinaryPath: /Applications/Firefox.app/Contents/MacOS/firefox-bin
+phantomjsBinaryPath: /Users/vijaykumar/Documents/phantomjs-2.1.1-macosx/bin
+localDownloadDirectory: /Users/vijaykumar/Desktop
