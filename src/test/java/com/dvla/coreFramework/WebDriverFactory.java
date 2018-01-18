@@ -23,7 +23,7 @@ public class WebDriverFactory {
 		
 		WebDriver driver = null;
 		String operaChromiumDriver = "/Users/vijaykumar/Documents/workspace/dvla/operadriver";
-		String ChromeDriver = "/Users/vijaykumar/Documents/workspace/dvla/chromedriver";
+		String ChromeDriver = "src\\resources\\chromedriver.exe\\";
 		String FirefoxGeckoDriver = "/Users/vijaykumar/Documents/workspace/dvla/geckodriver";
 		String PhantomJSDriver = "/Users/vijaykumar/Documents/workspace/dvla/phantomjs";
 		
